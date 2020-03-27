@@ -1,8 +1,5 @@
 # JExcel
 
-Autor : Jhonata de Barros Xavier
-Email : Jhonatabxd@gmail.com
-
 Descrição | Description 
 "Biblioteca feita com intuito de melhorar a ultilização de arquivos .xls com java e JTable"
 "Library created to improve the use of .xls files with java and JTable"
