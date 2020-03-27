@@ -1,7 +1,7 @@
 # JExcel
 
-/* Autor : Jhonata de Barros Xavier
-   Email : Jhonatabxd@gmail.com
+Autor : Jhonata de Barros Xavier
+Email : Jhonatabxd@gmail.com
 
 Descrição | Description 
 "Biblioteca feita com intuito de melhorar a ultilização de arquivos .xls com java e JTable"
@@ -51,4 +51,4 @@ Solution | Soluções de Erros :
 - Verificar a compatibilidade do arquivo .xls        
 - Algumas maquina podem precisa de permissão do admistrador para rodar a aplicação   
 
-*/
+
