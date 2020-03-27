@@ -1,12 +1,12 @@
 # JExcel
 
 Descrição | Description 
-"Biblioteca feita com intuito de melhorar a ultilização de arquivos .xls com java e JTable"
-"Library created to improve the use of .xls files with java and JTable"
+        "Biblioteca feita com intuito de melhorar a ultilização de arquivos .xls com java e JTable"
+        "Library created to improve the use of .xls files with java and JTable"
 
 Comments | Observações
-*Compatible with Excel 97 - 2003 | Compativel com Excel 97 - 2003
-*Need to import lib jxl          | Necessita de importação da lib jxl
+        *Compatible with Excel 97 - 2003 | Compativel com Excel 97 - 2003
+        *Need to import lib jxl          | Necessita de importação da lib jxl
 
 Examples | Exemplos 
 
@@ -47,5 +47,3 @@ Solution | Soluções de Erros :
 - Sempre verificar se o local do arquivo e diferente de null
 - Verificar a compatibilidade do arquivo .xls        
 - Algumas maquina podem precisa de permissão do admistrador para rodar a aplicação   
-
-
