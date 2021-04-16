@@ -16,7 +16,7 @@ Ex: Update and Set elemenst of excel
 Ex: Read all the elements of excel 
 
         JExcel excel = new JExcel();
-        excel.setFileLocal_xls("C:\\Users\\jhonata.de.b.xavier\\Documents\\NetBeansProjects\\GeracaoDMassa.xls");
+        excel.setFileLocal("C:\\Users\\jhonata.de.b.xavier\\Documents\\NetBeansProjects\\GeracaoDMassa.xls");
         for (int j = 1; j < excel.getSizeRows(); j++) {
         for (int i = 0; i < excel.getSizeColumns(); i++) {
         System.out.print(excel.getValueExcel(j,i)+" ");
